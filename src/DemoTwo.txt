@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is Demo Two.
 
 Last change.
+=======
+This is Demo Two.
+>>>>>>> 47a0cdb... Adding DemoTwo.txt
